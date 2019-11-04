@@ -1,0 +1,5 @@
+[2019-09-06 08:50:46] slim-app.INFO: Users list was viewed. [] {"uid":"f769bd3"}
+[2019-09-06 08:50:50] slim-app.INFO: User of id `2` was viewed. [] {"uid":"9202099"}
+[2019-09-06 11:14:17] slim-app.INFO: User of id `2` was viewed. [] {"uid":"f41bce3"}
+[2019-09-06 11:57:58] slim-app.INFO: Users list was viewed. [] {"uid":"46bc1cf"}
+[2019-09-06 11:58:20] slim-app.INFO: Users list was viewed. [] {"uid":"99c83a2"}
